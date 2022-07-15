@@ -13,7 +13,7 @@ image:
 
 ui:
   color: "#34577c"
-  message: "Greetings1"
+  message: "Greetings2"
   logo: ""
 
 # failure conditions
